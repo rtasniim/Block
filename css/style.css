@@ -1,0 +1,50 @@
+/*common start*/
+body{margin: 0;
+font-family: italic;
+font-size: 16px;
+font-weight: 400;
+color: blue;
+display: block;
+}
+header {
+    padding: 15px 0;
+    border-bottom: 2px solid #ede7e7;
+    display: block;
+}
+.menu {
+    float: right;
+    width: 55%;
+}
+user agent stylesheet
+nav {
+    display: block;
+}
+.menu ul li {
+    list-style: none;
+    float: left;
+}
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+menu ul {
+    float: right;
+}
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.container {
+    margin: 0 auto;
+    width: 90%;
+    overflow: hidden;
+}
+
+div {
+    display: block;
